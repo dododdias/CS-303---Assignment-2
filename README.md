@@ -5,9 +5,13 @@ The main goal of the code is to create professional and nonprofessional employee
 To run the code, it just requires you to run the main file, where all the files are included on it, making it run perfectly.
 
 Employee.cpp file creates the math for the calculations
-Employee.h file creates the class and functions
+
+Employee.h file creates the classes
+
 Single_Linked_List.cpp creates all the functions for positioning
+
 Single_Linked_List.h use all the operations for the functions
+
 main runs the code.
 
 Here is a screenshot of how the code runs:
